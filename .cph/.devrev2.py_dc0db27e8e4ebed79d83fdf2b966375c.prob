@@ -1,0 +1,1 @@
+{"name":"Local: devrev2","url":"/Users/macbook/Desktop/CP/devrev2.py","tests":[{"id":1724750867873,"input":"abdc","output":"dc"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/macbook/Desktop/CP/devrev2.py","group":"local","local":true}

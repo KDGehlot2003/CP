@@ -1,0 +1,1 @@
+{"name":"Local: devrev1","url":"/Users/macbook/Desktop/CP/devrev1.py","tests":[{"id":1724750229003,"input":"123421","output":"baecab"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/macbook/Desktop/CP/devrev1.py","group":"local","local":true}
