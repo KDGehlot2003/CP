@@ -8,12 +8,11 @@ int main()
     int count =0;
     for (int i=0;i<n;i++ ) {
         int x,y,z;
-        cin>>x>>y>>x;
+        cin>>x>>y>>z;
         if (x+y+z>=2) {
             count++;
         }
     }
-    cout<<count;
-    return 0;
+    cout<<count<<endl;
     return 0;
 }
