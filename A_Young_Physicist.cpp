@@ -5,13 +5,15 @@ int main()
 {
     int n;
     cin>>n;
-    int s  = 0;
+    int s1  = 0,s2  = 0,s3  = 0;
     for (int i=0; i<n; i++ ) {
         int a,b,c;
         cin>>a>>b>>c;
-        s+=a+b+c;
+        s1+=a;
+        s2+=b;
+        s3+=c;
     }
-    if (s==0){
+    if (s1==0 && s2==0 && s3==0){
         cout<<"YES";
     }
     else {
